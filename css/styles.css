@@ -1,5 +1,14 @@
 /* Variabes */
 /* Mixin's */
+body {
+  background: #c1d72e;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #fff;
+  height: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -23,14 +32,6 @@
   height: 1.5em;
 }
 
-/*body {
-  background: #c1d72e;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  color: #fff;
-  height: 100%;
-  text-align: center;
-  font-size: 18px;
-}
 
 .wrappper {
   width: 100%;
