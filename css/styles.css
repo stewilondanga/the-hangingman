@@ -120,7 +120,7 @@ p {
   cursor: default;
 }
 
-/*.active:hover {
+.active:hover {
   -moz-transition: all 1s ease-in;
   -moz-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -131,7 +131,7 @@ p {
   -webkit-transition: all 0.3s ease-in-out;
 }
 
-#mylives {
+/*#mylives {
   font-size: 1.6em;
   text-align: center;
   display: block;
