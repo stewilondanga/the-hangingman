@@ -60,12 +60,13 @@ p {
   font-size: 1.6em;
 }
 
-/*#alphabet {
+#alphabet {
   margin: 15px auto;
   padding: 0;
   max-width: 900px;
 }
-#alphabet:after {
+
+/*#alphabet:after {
   content: "";
   display: table;
   clear: both;
