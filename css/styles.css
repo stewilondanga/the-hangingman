@@ -137,7 +137,7 @@ p {
   display: block;
 }
 
-/*button {
+button {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
@@ -153,7 +153,8 @@ p {
   margin: 10px;
   outline: none;
 }
-button:hover {
+
+/*button:hover {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
